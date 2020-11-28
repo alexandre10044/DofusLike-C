@@ -4,8 +4,8 @@ Final year project, DofusLike in C, with CSFML
 Please use official CSFML lib to run this game.
 Version required: CSFML-2.5-sources.zip
 
-UPDATE: New link for the CSFML lib.
--> https://github.com/Epitech/dump/blob/master/build_csfml.sh
+UPDATE: 
+To run this project, you have to install the official epitech csfml lib -> Run the file build_csfml.sh.
 
 USAGE:
 ./my_rpg {playerName}
