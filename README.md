@@ -5,7 +5,7 @@ Please use official CSFML lib to run this game.
 Version required: CSFML-2.5-sources.zip
 
 UPDATE: 
-To run this project, you have to install the official epitech csfml lib -> Run the file build_csfml.sh.
+To run this project, you have to install CSFML 2.5 lib -> Run the file build_csfml.sh.
 
 USAGE:
 ./my_rpg {playerName}
